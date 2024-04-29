@@ -1,0 +1,220 @@
+music = {
+	name = "Anakins Dark Deeds"
+	file = "1.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Dangerous Darrin - Star Wars - The Chosen One  Requiem"
+	file = "2.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Dark Star Wars - The Jedi Hunt  Dark Imperial March"
+	file = "3.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Darth Revan Jedi Version  Star Wars  Theme for Jedi Master Revan"
+	file = "4.ogg"
+	volume = 0.8
+}
+music = {
+	name = "De Bazuin - Star Wars - The First Order"
+	file = "5.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Handel - Sarabande  Orchestral Version"
+	file = "6.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Harry Vander - Mace Windu's Theme  Star Wars  Original Theme for Mace Windu"
+	file = "7.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Hunter Van Larkins - Star Wars - Across The Stars Sad Piano  Emperor Anakin Theme"
+	file = "8.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Lucas King - Star Wars - After The Empire  Duel of The Fates Love Theme"
+	file = "9.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Meco - Star Wars - Revan  Original Redemption Theme"
+	file = "10.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Meco - The Force Theme"
+	file = "11.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Mik - Star Wars - Across The Stars  The Sith Version"
+	file = "12.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Ned and Manson - Star Wars - Anakin's Madness  Piano & Orchestra"
+	file = "13.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Ned and Manson - Star Wars - Death of Anakin  Sad Jedi Temple March Piano"
+	file = "14.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Ned and Manson - Star Wars - Luke & Anakin  Original Piano Theme"
+	file = "15.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Nick Ingman Orchestra - Star Wars - End of The Jedi  Rey Sad Piano Theme"
+	file = "16.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Nick Ingman Orchestra - Star Wars - High Ground  Original Theme"
+	file = "17.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Paul Bateman - Darth Revan Theme  Sad Piano Version"
+	file = "18.ogg"
+	volume = 0.8
+}
+music = {
+	name = "PK - Darth Vader"
+	file = "19.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Plo Koon's Theme  Original Theme for Jedi Master Plo Koon"
+	file = "20"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Starkiller's Theme  Piano & Orchestra  The Force Unleashed"
+	file = "21.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - The 501st  Original 501st Theme"
+	file = "22.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Princess Leia"
+	file = "23.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Sad Strings - War  Original Composition"
+	file = "24.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Sith Symphony - Ahsoka & Vader Original Theme"
+	file = "25.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Darth Plagueis The Wise"
+	file = "26.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Droid Invasion March  Sith Symphony"
+	file = "27.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Imperial March  Heroic Version  Piano & Orchestra"
+	file = "28.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Luke's Dark Side Theme"
+	file = "29.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Palpatine Jedi Theme  Emperor's Theme Lightside"
+	file = "30.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Rey's Dark Side Theme"
+	file = "31.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - The Force  Sad Piano & Cello Suite"
+	file = "32.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - The Old Republic  Original Ancient Sith Theme"
+	file = "33.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Vader's Revenge  Original Sith Victory Theme"
+	file = "34.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars - Way of The Sith"
+	file = "35.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars Sith Symphony - Darth Nihilus  Piano & Orchestra"
+	file = "36.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Star Wars Sith Symphony - Darth Revan  Piano & Orchestra"
+	file = "37.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Sven Regener - Star Wars - Men of The Death Star  Vader's Lament"
+	file = "38.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Sven Regener - Star Wars - The Clones  Remembering The Clones  Original Theme"
+	file = "39.ogg"
+	volume = 0.8
+}
+music = {
+	name = "The Andrew Allen Trio - Star Wars - Yoda's Theme  Original Theme for Yoda"
+	file = "40.ogg"
+	volume = 0.8
+}
+music = {
+	name = "The Mandalorian - Sad Piano Version"
+	file = "41.ogg"
+	volume = 0.8
+}
+music = {
+	name = "The Space Heroes Orchestra - Star Wars - Duel of The Fates  Heroic Sad Piano Orchestra"
+	file = "42.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Vader's Chamber  Star Wars Theory Orchestral Fan Film Audition"
+	file = "43.ogg"
+	volume = 0.8
+}
+music = {
+	name = "Lucas King - Anakin's Symphony - Imperial March (Love Theme version)"
+	file = "44.ogg"
+	volume = 0.8
+}

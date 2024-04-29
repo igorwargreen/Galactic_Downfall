@@ -1,0 +1,133 @@
+
+song = {
+	name = "Anakins Dark Deeds" 
+}
+song = {
+	name = "Dangerous Darrin - Star Wars - The Chosen One  Requiem" 
+}
+song = {
+	name = "Dark Star Wars - The Jedi Hunt  Dark Imperial March" 
+}
+song = {
+	name = "Darth Revan Jedi Version  Star Wars  Theme for Jedi Master Revan" 
+}
+song = {
+	name = "De Bazuin - Star Wars - The First Order" 
+}
+song = {
+	name = "Handel - Sarabande  Orchestral Version"
+}
+song = {
+	name = "Harry Vander - Mace Windu's Theme  Star Wars  Original Theme for Mace Windu"
+}
+song = {
+	name = "Hunter Van Larkins - Star Wars - Across The Stars Sad Piano  Emperor Anakin Theme"
+}
+song = {
+	name = "Lucas King - Star Wars - After The Empire  Duel of The Fates Love Theme"
+}
+song = {
+	name = "Meco - Star Wars - Revan  Original Redemption Theme"
+}
+song = {
+	name = "Meco - The Force Theme"
+}
+song = {
+	name = "Mik - Star Wars - Across The Stars  The Sith Version"
+}
+song = {
+	name = "Ned and Manson - Star Wars - Anakin's Madness  Piano & Orchestra"
+}
+song = {
+	name = "Ned and Manson - Star Wars - Death of Anakin  Sad Jedi Temple March Piano"
+}
+song = {
+	name = "Ned and Manson - Star Wars - Luke & Anakin  Original Piano Theme"
+}
+song = {
+	name = "Nick Ingman Orchestra - Star Wars - End of The Jedi  Rey Sad Piano Theme"
+}
+song = {
+	name = "Nick Ingman Orchestra - Star Wars - High Ground  Original Theme"
+}
+song = {
+	name = "Paul Bateman - Darth Revan Theme  Sad Piano Version"
+}
+song = {
+	name = "PK - Darth Vader"
+}
+song = {
+	name = "Star Wars - Plo Koon's Theme  Original Theme for Jedi Master Plo Koon"
+}
+song = {
+	name = "Star Wars - Starkiller's Theme  Piano & Orchestra  The Force Unleashed"
+}
+song = {
+	name = "Star Wars - The 501st  Original 501st Theme"
+}
+song = {
+	name = "Princess Leia"
+}
+song = {
+	name = "Sad Strings - War  Original Composition"
+}
+song = {
+	name = "Sith Symphony - Ahsoka & Vader Original Theme"
+}
+song = {
+	name = "Star Wars - Darth Plagueis The Wise"
+}
+song = {
+	name = "Star Wars - Droid Invasion March  Sith Symphony"
+}
+song = {
+	name = "Star Wars - Imperial March  Heroic Version  Piano & Orchestra"
+}
+song = {
+	name = "Star Wars - Luke's Dark Side Theme"
+}
+song = {
+	name = "Star Wars - Palpatine Jedi Theme  Emperor's Theme Lightside"
+}
+song = {
+	name = "Star Wars - Rey's Dark Side Theme"
+}
+song = {
+	name = "Star Wars - The Force  Sad Piano & Cello Suite"
+}
+song = {
+	name = "Star Wars - The Old Republic  Original Ancient Sith Theme"
+}
+song = {
+	name = "Star Wars - Vader's Revenge  Original Sith Victory Theme"
+}
+song = {
+	name = "Star Wars - Way of The Sith"
+}
+song = {
+	name = "Star Wars Sith Symphony - Darth Nihilus  Piano & Orchestra"
+}
+song = {
+	name = "Star Wars Sith Symphony - Darth Revan  Piano & Orchestra"
+}
+song = {
+	name = "Sven Regener - Star Wars - Men of The Death Star  Vader's Lament"
+}
+song = {
+	name = "Sven Regener - Star Wars - The Clones  Remembering The Clones  Original Theme"
+}
+song = {
+	name = "The Andrew Allen Trio - Star Wars - Yoda's Theme  Original Theme for Yoda"
+}
+song = {
+	name = "The Mandalorian - Sad Piano Version"
+}
+song = {
+	name = "The Space Heroes Orchestra - Star Wars - Duel of The Fates  Heroic Sad Piano Orchestra"
+}
+song = {
+	name = "Vader's Chamber  Star Wars Theory Orchestral Fan Film Audition"
+}
+song = {
+	name = "Lucas King - Anakin's Symphony - Imperial March (Love Theme version)"
+}
